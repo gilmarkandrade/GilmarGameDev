@@ -1,0 +1,56 @@
+
+body {
+    /*background-color: rgba(16, 3, 65, 0.8);*/
+    background-attachment: fixed;
+    background-image: url("back3.jpg");
+    background-size: cover;
+     color: rgb(173, 162, 235);
+}
+
+h1{
+
+    font-style: normal;
+    font-size: 300%;
+    text-align: center;
+    background-color: rgba(62, 19, 102, 0.712);
+    color: rgb(179, 166, 250);
+}
+
+#bt1 {
+
+    background-color: black;
+    color: cornsilk;
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    border-radius: 10%;
+
+}     
+
+::-webkit-scrollbar {
+    /*width: 0px;
+    overflow: hidden;*/
+    display: none;
+}
+
+
+h3{
+
+    font-size: 150%;
+    text-align: center;
+}
+
+
+Div{
+    align-items: center;
+    background-color: rgba(62, 30, 88, 0.849);
+    color: rgb(199, 178, 226);
+    border-style: solid; 
+    font-size: 22px;
+    width: 500px;
+    padding: 50px;
+    margin: 10px;
+    content: normal;
+    border-radius: 5px;
+
+    
+}
